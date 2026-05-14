@@ -9,3 +9,6 @@ jobs:
     steps:
       - name: Echo text
         run: echo "Hello, world!"
+
+      - name: Echo text
+        run: echo "Welcome Narayan"
